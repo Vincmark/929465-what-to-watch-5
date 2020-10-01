@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexey Koshevoy](https://up.htmlacademy.ru/react/5/user/929465).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Брагин](https://htmlacademy.ru/profile/id1349603).
 
 ---
 
